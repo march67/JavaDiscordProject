@@ -23,6 +23,8 @@ public class HelloWorld {
 		System.out.println();
 		System.out.println("The counting of values greater than 5 is : " + numberHigherThanFivecounter);
 		
+		// test git
+		
 		// Exercice 2
 		int intFiveHolder;
 		do {
